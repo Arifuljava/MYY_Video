@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VideoCalling</string>
+    <string name="agora_app_id">93fdcff4216a4454a1fb2e92a5bfc6b9</string>
+    <!-- Obtain a temp Access Token at https://dashboard.agora.io -->
+    <!-- You will need to deploy your own token server for production release -->
+    <!-- Leave this value empty if Security keys/Token is not enabled for your project -->
+    <string name="agora_access_token">007eJxTYJhx68TeyMrEzzXHxIr4U2KmyMtc+n1nYvPlQ8oi0u/P+t1VYLA0TktJTkszMTI0SzQxMTVJNExLMkq1NEo0TUpLNkuyNDLUSmkIZGRwNDrOxMgAgSA+E0NeHgMDAHmhH1Y=</string>
+</resources>
